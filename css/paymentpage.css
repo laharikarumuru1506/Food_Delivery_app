@@ -1,0 +1,13 @@
+body{
+  margin-top: 100px;
+}
+.division{
+  max-width: 50%;
+  margin: auto;
+}
+@media only screen and (max-width: 1000px) {
+.division{
+  max-width: 70%;
+  margin: auto;
+}
+}
